@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-리드미 꾸미기는 좀 이따가 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhaeun-la&show_icons=true&theme=radical)
