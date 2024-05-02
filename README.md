@@ -3,8 +3,6 @@
 - care about the UI/UX of the device and know how it affects the app 📱
 - Enjoys writing and Reading 📝
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhaeun-la&show_icons=true&theme=radical)
-
 ## Education
 
 ### Like lion [App School](https://techit.education/school) (2023.05.22 ~ 2023.10.25)
