@@ -7,13 +7,13 @@
 
 ## Education
 
-##### Like lion [App School](https://techit.education/school) (2023.05.22 ~ 2023.10.25)
+### Like lion [App School](https://techit.education/school) (2023.05.22 ~ 2023.10.25)
 studied Swift, UIKit, SwiftUI, HIG, git/github
 
-##### Big Leader AI Academy (2021.06.22 ~ 08.31)
+### Big Leader AI Academy (2021.06.22 ~ 08.31)
 Studied computer vision fundamentals and machine learning
 
-##### Seoul W.Univ (2016)
+### Seoul W.Univ (2016)
 BS in Information Security 
 
 
