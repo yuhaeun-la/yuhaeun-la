@@ -1,5 +1,5 @@
 ## About Me
-After Techit iOS App School Completed, currently working on side Project <버스어디>, member of <아고나락> Reading Club, Hearthstone Ranker
+Techit iOS App School Completed, currently working on side Project <버스어디>, member of <아고나락> Reading Club, Hearthstone Ranker
 
 - being a user-friendly developer 😶‍🌫️
 - care about the UI/UX of the device and know how it affects the app 📱
