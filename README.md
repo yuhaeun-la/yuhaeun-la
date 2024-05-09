@@ -13,7 +13,7 @@ studied Swift, UIKit, SwiftUI, HIG, git/github
 ### Big Leader AI Academy (2021.06.22 ~ 08.31)
 Studied computer vision fundamentals and machine learning
 
-### Seoul W.Univ (2016)
+### Seoul W.Univ 
 BS in Information Security 
 
 
