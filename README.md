@@ -3,7 +3,7 @@
 
 [블로그/정리노트](https://yuia.tistory.com/)<br><br>
 
-Techit iOS App School Completed, currently working on side Project <버스어디>, <새싹> <br>
+Techit iOS App School, 새싹 flutter Completed, currently working on side Project <버스어디> <br>
 member of <아고나락> Reading Club <br> Hearthstone Ranker <br>
 
 - being a user-friendly developer 😶‍🌫️
