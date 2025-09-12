@@ -5,7 +5,6 @@
 
 Techit iOS App School, 새싹 flutter Completed, currently working on side Project <버스어디> <br>
 member of <아고나락> Reading Club <br> Hearthstone Ranker <br>
-https://agonarak.vercel.app/ 아고나락(독서모임) 전용 웹 사이트 배포 완료!
 
 - being a user-friendly developer 😶‍🌫️
 - interested in UI/UX of the device and know how it affects the app 📱
